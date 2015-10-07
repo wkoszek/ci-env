@@ -1,0 +1,14 @@
+machine:
+  ruby:
+    version:
+      2.2.2
+
+test:
+  override:
+    - printenv
+    - set
+
+general:
+  branches:
+    only:
+      - master
