@@ -37,3 +37,8 @@ complaints. This repository is trying to address problems typical for CI
 systems. CircleCI helped me get my website http://www.koszek.com to a better
 quality before I was ready to publish it. AppVeyor let me revive old Windows
 software I wrote during my university years.
+
+# Author
+
+- Wojciech Adam Koszek, [wojciech@koszek.com](mailto:wojciech@koszek.com)
+- [http://www.koszek.com](http://www.koszek.com)
